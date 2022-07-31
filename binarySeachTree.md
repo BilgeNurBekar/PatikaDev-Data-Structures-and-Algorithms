@@ -12,7 +12,8 @@ olanları sağına yerleştirerek ilerleyeceğiz.
 
 Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna göre şekildeki gibi yerleştiririz.
 
-*        7
+
+         7
         /
        5
 
@@ -21,7 +22,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / 
        5   
       /
@@ -30,7 +31,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       /
@@ -39,7 +40,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / 
@@ -50,7 +51,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / \
@@ -61,7 +62,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / \
@@ -72,7 +73,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / \   \
@@ -83,7 +84,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / \   \
@@ -96,7 +97,7 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
 
 
 
-*        7
+         7
         / \
        5   8
       / \   \
