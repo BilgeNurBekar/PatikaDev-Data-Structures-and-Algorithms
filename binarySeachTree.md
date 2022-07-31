@@ -17,28 +17,39 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
        5
 
 
+
+
+
+
 *        7
         / 
        5   
       /
-     1  
-       
+     1
+
+
+
+
 *        7
         / \
        5   8
       /
-     1  
-     
-     
+     1       
+
+
+
+
 *        7
         / \
        5   8
       / 
      1  
       \
-       3
-       
-       
+       3      
+
+
+
+
 *        7
         / \
        5   8
@@ -46,7 +57,10 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
      1   6
       \
        3
-       
+
+
+
+
 *        7
         / \
        5   8
@@ -54,7 +68,10 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
      1   6
     / \
    0   3
-   
+
+
+
+
 *        7
         / \
        5   8
@@ -62,7 +79,10 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
      1   6   9
     / \
    0   3
-   
+
+
+
+
 *        7
         / \
        5   8
@@ -73,7 +93,9 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
         \
          4
          
-         
+
+
+
 *        7
         / \
        5   8
@@ -83,5 +105,9 @@ Yeni sayımızı alt nodelara göre yeniden büyüklük küçüklük durumuna g�
    0   3
       / \
      2   4
-         
+
+
+
+
+
        
